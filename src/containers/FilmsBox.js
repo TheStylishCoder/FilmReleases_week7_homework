@@ -36,7 +36,8 @@ const FilmsBox = () => {
     return(
         <div className="films-box">
             <h1>Upcoming Film Releases for UK</h1>
-            <FilmsList />
+            <FilmsList films={films}/>
+            <button>View more upcoming releases</button>
         </div>
     )
 };
