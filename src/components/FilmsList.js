@@ -12,7 +12,7 @@ const FilmsList = ({films}) => {
 
 
     return(
-        <div className="film-list">
+        <div className="films-list">
             {filmNodes}
         </div>
 

@@ -2,4 +2,27 @@
   text-align: center;
 }
 
+.films-box {
+  border: 5px solid black;
+}
 
+.films-list {
+  background-color: pink;
+}
+
+.button a:link {
+  text-decoration: none;
+  
+}
+
+.button a:visited {
+  color: black;
+}
+
+.film a:link {
+  color: black;
+}
+
+.film a:visited {
+  color: white;
+}
