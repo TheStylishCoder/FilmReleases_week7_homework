@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-
+import FilmsList from '../components/FilmsList';
 
 const FilmsBox = () => {
 
@@ -36,6 +36,7 @@ const FilmsBox = () => {
     return(
         <div className="films-box">
             <h1>Upcoming Film Releases for UK</h1>
+            <FilmsList />
         </div>
     )
 };
