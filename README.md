@@ -8,8 +8,6 @@
 
 You task is to plan and build an application that displays a list of upcoming film titles, each one linking to their [imdb](https://www.imdb.com/) page.
 
-![Screenshot of example result](images/film-releases.png)
-*Screenshot of example result*
 
 - Draw out the UI on paper, breaking it down into components.
 - Draw a component hierarchy diagram, noting down any state and props for each component.
